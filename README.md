@@ -6,4 +6,4 @@ Description: A deep recurrent neural net (RNN) for both character-level and word
 
 Text_Generator_using_chars.ipynb : The python code in form of a Jupyter Notebook.
 
-Text_Generator_using_chars.ipynb : HTML version of the Jupyter Notebook for easily viewing the code.
+Text_Generator_using_chars.html : HTML version of the Jupyter Notebook for easily viewing the code.
