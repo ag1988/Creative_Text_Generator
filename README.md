@@ -4,7 +4,7 @@
 
 Description: A deep recurrent neural net (RNN) for both character-level and word-level language modeling that, given any starting context, generates creative text depending on the training data. Training was done using OANC corpus. Even with probabilistic sampling of character sequences, the RNN almost always outputs valid dictionary words making meaningful sentences.
 
-Text_Generator_using_chars.ipynb : Python code in form of a Jupyter Notebook (if you click on it above; GitHub will automatically render it).
+Python code in form of a Jupyter Notebook can be viewed [here](https://github.com/ag1988/Creative_Text_Generator/blob/master/Text_Generator_using_chars.ipynb).
 
 #### Samples of Generated Texts : 
 (note that the training data mostly had political content)
